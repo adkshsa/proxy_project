@@ -11,7 +11,8 @@ A high-performance C++ forward proxy server supporting HTTP/HTTPS, multi-threade
 - **logs/**: Traffic and event logs.
 ## 📽️Project Video
 [🎥 Project Video featuring usage on system browser](https://drive.google.com/file/d/1gru-2m9jZVjOg_27GFOmp9l1L7Ef5oW_/view?usp=sharing)
-[🎥 Project Video featuring usage with curl commands]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1IKgT_vWwIn1T2cipGGBQHlShZ8PrcYLo/view?usp=sharing))
+
+[🎥 Project Video featuring usage with curl commands](https://drive.google.com/file/d/1IKgT_vWwIn1T2cipGGBQHlShZ8PrcYLo/view?usp=sharing)
 
 ## 🛠 Compilation
 Ensure you have `g++`, `openssl`, and `libcurl` installed. Run the following command in the root directory:
@@ -73,3 +74,4 @@ Before you finish, make sure your **`logs`** folder exists. If it doesn't, the s
 ```bash
 
 mkdir -p logs
+
