@@ -9,6 +9,9 @@ A high-performance C++ forward proxy server supporting HTTP/HTTPS, multi-threade
 - **config/**: Configuration files (blocked domains).
 - **docs/**: Design documentation.
 - **logs/**: Traffic and event logs.
+## 📽️Project Video
+[🎥 Project Video featuring usage on system browser](https://drive.google.com/file/d/1gru-2m9jZVjOg_27GFOmp9l1L7Ef5oW_/view?usp=sharing)
+[🎥 Project Video featuring usage with curl commands]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1IKgT_vWwIn1T2cipGGBQHlShZ8PrcYLo/view?usp=sharing))
 
 ## 🛠 Compilation
 Ensure you have `g++`, `openssl`, and `libcurl` installed. Run the following command in the root directory:
@@ -68,4 +71,5 @@ Filtering: Domain suffix-matching for blacklisting.
 Before you finish, make sure your **`logs`** folder exists. If it doesn't, the server might crash when trying to create the log file. You can ensure it exists by running this in your terminal:
 
 ```bash
+
 mkdir -p logs
