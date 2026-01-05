@@ -1,0 +1,11 @@
+# Compiled Binaries
+proxy_server
+stress_test
+
+# Logs
+logs/*.log
+proxy.log
+
+# Temporary/Object files
+*.o
+.DS_Store
